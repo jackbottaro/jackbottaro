@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, economics and psychology.
 - 🌱 I’m currently learning html, css, javascript, php, lavarel
 
-- 📫 How to reach me: gmd3mera@anonaddy.me
+- 📫 How to reach me: yuuo9l3g[at]anonaddy.me
 
 <!---
 jackbottaro/jackbottaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
